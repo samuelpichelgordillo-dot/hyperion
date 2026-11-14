@@ -1,0 +1,9 @@
+Hyperion
+Copyright 2026 Samuel
+
+Este producto se distribuye bajo la Licencia Apache, versión 2.0 (archivo LICENSE).
+
+Incluye software de terceros con sus propias licencias (llama.cpp, MIT; los crates de Rust de
+Cargo.lock, con licencias MIT, Apache-2.0, BSD-3-Clause, ISC, Unicode-3.0, Zlib o 0BSD; el runtime
+de CUDA y cuBLAS de NVIDIA, bajo la EULA de CUDA) y datos derivados de la Wikipedia en español
+(CC BY-SA 4.0). El detalle por componente está en pack/components.tsv.
